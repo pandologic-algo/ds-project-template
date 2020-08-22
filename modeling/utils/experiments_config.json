@@ -1,0 +1,9 @@
+{
+  "experiments": [
+    {
+      "experiment_name": "name",
+      "description": "Something useful"
+    }
+  ],
+  "global_config_param": null
+}
